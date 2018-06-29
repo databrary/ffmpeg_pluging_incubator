@@ -1,0 +1,31 @@
+﻿  ffplay.c
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(877): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(994): warning C4018: '<': signed/unsigned mismatch
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(1082): warning C4244: '-=': conversion from 'int64_t' to 'int', possible loss of data
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(1171): warning C4244: '=': conversion from 'double' to 'FFTSample', possible loss of data
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(1185): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(1186): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(1209): warning C4018: '>=': signed/unsigned mismatch
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(1669): warning C4018: '<': signed/unsigned mismatch
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(2473): warning C4018: '>=': signed/unsigned mismatch
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(2641): warning C4090: 'function': different 'const' qualifiers
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(2644): warning C4090: 'function': different 'const' qualifiers
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(2648): warning C4090: 'function': different 'const' qualifiers
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(2672): warning C4018: '>=': signed/unsigned mismatch
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(2854): warning C4018: '<': signed/unsigned mismatch
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(2971): warning C4018: '<': signed/unsigned mismatch
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(3355): warning C4244: 'function': conversion from 'int64_t' to 'unsigned int', possible loss of data
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(3372): warning C4018: '<': signed/unsigned mismatch
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(3382): warning C4018: '>=': signed/unsigned mismatch
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(3365): warning C4244: 'initializing': conversion from 'double' to 'int64_t', possible loss of data
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(3489): warning C4244: '=': conversion from 'int64_t' to 'double', possible loss of data
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(3491): warning C4244: '=': conversion from 'int64_t' to 'double', possible loss of data
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(3493): warning C4244: '=': conversion from 'int64_t' to 'double', possible loss of data
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(3499): warning C4244: 'function': conversion from 'double' to 'int64_t', possible loss of data
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(3549): warning C4244: 'function': conversion from 'double' to 'int64_t', possible loss of data
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(3555): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(3560): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(3567): warning C4244: '=': conversion from 'double' to 'int64_t', possible loss of data
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(3599): warning C4013: 'opt_default' undefined; assuming extern returning int
+c:\users\datavyutests\source\repos\ffplay\ffplay\ffplay.c(3649): warning C4013: 'parse_time_or_die' undefined; assuming extern returning int
+  FFplay.vcxproj -> C:\Users\DatavyuTests\source\repos\FFplay\Debug\FFplay.exe
